@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "351865226329",
+    "project_id": "modul3-codelab-2eac6",
+    "storage_bucket": "modul3-codelab-2eac6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351865226329:android:4331fc2a6b169fbd5b9d48",
+        "android_client_info": {
+          "package_name": "xyz.reparin.tugas_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDySQ2YuWJGH39dqeA0IVv5T23M_FDDFz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
